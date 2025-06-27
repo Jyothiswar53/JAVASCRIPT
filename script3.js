@@ -2,7 +2,7 @@
 
 // Named function
 function namedFunction() {
-    console.log('I am named');
+    console.log('I am named')
 }
 
 // Anonymous function assigned to a variable
